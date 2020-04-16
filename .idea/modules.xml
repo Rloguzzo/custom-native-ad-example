@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="custom-native-ad-example/app" />
       <module fileurl="file://$PROJECT_DIR$/custom-native-ad-example.iml" filepath="$PROJECT_DIR$/custom-native-ad-example.iml" group="custom-native-ad-example" />
+      <module fileurl="file://$PROJECT_DIR$/app/custom-native-ad-example-app.iml" filepath="$PROJECT_DIR$/app/custom-native-ad-example-app.iml" group="custom-native-ad-example/app" />
+      <module fileurl="file://$PROJECT_DIR$/workspace-custom-native-ad-example.iml" filepath="$PROJECT_DIR$/workspace-custom-native-ad-example.iml" group="custom-native-ad-example" />
     </modules>
   </component>
 </project>

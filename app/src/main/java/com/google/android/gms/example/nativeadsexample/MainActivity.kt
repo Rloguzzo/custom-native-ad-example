@@ -88,6 +88,7 @@ class MainActivity : AppCompatActivity() {
     private fun refreshAd() {
 
         refresh_button.isEnabled = true
+        nativeCustomTemplateAd?.destroy()
 
         val builder = AdLoader.Builder(this, AD_MANAGER_AD_UNIT_ID)
 
